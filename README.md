@@ -1,4 +1,3 @@
-
 <h1 align="center">🛡️ Hossam Mostafa Elsemelawy | حسام مصطفى السملّاوي</h1>
 <p align="center">Cybersecurity Student | Threat Hunter in Progress 🚀</p>
 
@@ -20,29 +19,29 @@
 
 ### **Languages & Environments**
 <p align="center">
-<img src="./assets/icons8-c++-50.png" width="50"/>
-<img src="./assets/icons8-python-50.png" width="50"/>
-<img src="./assets/icons8-bash-50.png" width="50"/>
-<img src="./assets/icons8-powershell-50.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-c++-50.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-python-50.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-bash-50.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-powershell-50.png" width="50"/>
 </p>
 
 ### **Software & Platforms**
 <p align="center">
-<img src="./assets/icons8-visual-studio-50.png" width="50"/>
-<img src="./assets/icons8-git-50.png" width="50"/>
-<img src="./assets/icons8-kali-linux-100.png" width="50"/>
-<img src="./assets/icons8-arch-linux-48.png" width="50"/>
-<img src="./assets/icons8-azure-48.png" width="50"/>
-<img src="./assets/icons8-amazon-web-services-50.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-visual-studio-50.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-git-50.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-kali-linux-100.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-arch-linux-48.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-azure-48.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-amazon-web-services-50.png" width="50"/>
 </p>
 
 ### **Security & SOC Tools**
 <p align="center">
-<img src="./assets/icons8-nmap-50.png" width="50"/>
-<img src="./assets/icons8-splunk-50.png" width="50"/>
-<img src="./assets/icons8-kali-linux-100.png" width="50"/>
-<img src="./assets/icons8-whatsapp-50.png" width="1" style="opacity:0"/>
-<img src="./assets/icons8-visual-studio-50.png" width="1" style="opacity:0"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-nmap-50.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-splunk-50.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-kali-linux-100.png" width="50"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-whatsapp-50.png" width="1" style="opacity:0"/>
+<img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-visual-studio-50.png" width="1" style="opacity:0"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Elastic_logo.svg" width="100"/>
 </p>
 
@@ -51,10 +50,10 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hossam-elsemelawy-71468b354"><img src="./assets/icons8-linkedin-50.png" width="45"/></a>&nbsp;
-<a href="https://www.instagram.com/hossam_elsemelawy"><img src="./assets/icons8-instagram-logo-50.png" width="45"/></a>&nbsp;
-<a href="https://wa.me/201112756114"><img src="./assets/icons8-whatsapp-50.png" width="45"/></a>&nbsp;
-<a href="https://discord.com/users/7ossam_mostafa"><img src="./assets/icons8-discord-50.png" width="45"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/hossam-elsemelawy-71468b354"><img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-linkedin-50.png" width="45"/></a>&nbsp;
+<a href="https://www.instagram.com/hossam_elsemelawy"><img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-instagram-logo-50.png" width="45"/></a>&nbsp;
+<a href="https://wa.me/201112756114"><img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-whatsapp-50.png" width="45"/></a>&nbsp;
+<a href="https://discord.com/users/7ossam_mostafa"><img src="https://raw.githubusercontent.com/hossam5949/hossam5949/main/assets/icons/icons8-discord-50.png" width="45"/></a>&nbsp;
 <a href="mailto:hossamelsemelawy2006@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="42"/></a>
 </p>
 
