@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Hossam Mostafa Elsemelawy | حسام مصطفى السملّاوي
 
-<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="400" align="center"/>
+<img src="https://media.istockphoto.com/id/2151954310/photo/shield-security-network-technology-wire-frame-concept.jpg?s=612x612&w=0&k=20&c=Mf9u8mTpNgS2pJVfTD3oNeJCMLeF5-gndUa8aVhpvxI=" width="450" align="center"/>
 
 ---
 
@@ -18,12 +18,11 @@
 ## 🛠️ Tech & Tools I Work With
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"/>
-</p>
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="65" height="65"/>
+  <img src="https://www.python.org/static/community_logos/python-logo.png" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="60"/>
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="55"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon
 
 ### 🕵️‍♂️ Security & Networking Tools
 
